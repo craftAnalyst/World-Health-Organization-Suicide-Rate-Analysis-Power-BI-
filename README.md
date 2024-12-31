@@ -5,6 +5,8 @@ I was provided with a dataset by the World Health Organization (WHO) on global s
 age, number of suicides, population, suicides per 100,000 population, GDP, GDP per capita, and generation. My task was to analyze this data using visualizations in Microsoft Power BI and
 report my findings based on specific questions.
 
+## Dataset  
+<a href="https://drive.google.com/file/d/1oBFwIF_OFGLLBLCCV-vjrhXr6CtjbujI/view?usp=sharing">Suicide Rate Data</a>  
 ## Key Findings:  
 ▪️Total Suicides (1985-2016): Over the last 32 years, the total number of suicides was 7 million, with 5 million males and 2 million females.  
 ▪️The total GDP during this period was $516.66 trillion, the total GDP per capita was $469.23 million, and the total population was 51 billion.  
