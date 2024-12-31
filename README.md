@@ -7,6 +7,8 @@ report my findings based on specific questions.
 
 ## Dataset  
 <a href="https://1drv.ms/x/c/ebab623a643e4df1/ESkIcYVEdZVPl1W77ZPmIpIBEjzIgzDvJkpz4xncxlYW6A?e=IUmnHn">Suicide Rate Data</a>  
+## Dashboard  
+<a href="https://<a href="https://1drv.ms/x/c/ebab623a643e4df1/ESkIcYVEdZVPl1W77ZPmIpIBEjzIgzDvJkpz4xncxlYW6A?e=IUmnHn">Suicide Rate Data</a> ">Suicide Rate Data</a> 
 ## Key Findings:  
 ▪️Total Suicides (1985-2016): Over the last 32 years, the total number of suicides was 7 million, with 5 million males and 2 million females.  
 ▪️The total GDP during this period was $516.66 trillion, the total GDP per capita was $469.23 million, and the total population was 51 billion.  
