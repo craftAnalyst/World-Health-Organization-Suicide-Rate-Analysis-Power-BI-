@@ -6,8 +6,8 @@ age, number of suicides, population, suicides per 100,000 population, GDP, GDP p
 report my findings based on specific questions.
 
 ## Key Findings:  
-▪️Total Suicides (1985-2016): Over the last 32 years, the total number of suicides was 7 million, with 5 million males and 2 million females.  
-▪️The total GDP during this period was $516.66 trillion, the total GDP per capita was $469.23 million, and the total population was 51 billion.  
+▪️###Total Suicides (1985-2016): Over the last 32 years, the total number of suicides was 7 million, with 5 million males and 2 million females.  
+▪️##The total GDP during this period was $516.66 trillion, the total GDP per capita was $469.23 million, and the total population was 51 billion.  
 ▪️Countries with the Highest and Lowest Suicide Rates: The country with the highest suicide rate was the Russian Federation, with 1.21 million suicides, followed by the United States (1.03
 million), Japan (0.81 million), and France (0.33 million).  The countries with the lowest suicide rates (0.01 million) included New Zealand, Slovakia, Uruguay, Kyrgyzstan, Latvia, Ireland,
 Greece, El Salvador, Israel, Slovenia, Turkey, Singapore, Puerto Rico, Turkmenistan, Guatemala, South Africa, Estonia, and Costa Rica.  
