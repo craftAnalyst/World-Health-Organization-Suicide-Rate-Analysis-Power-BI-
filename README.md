@@ -22,6 +22,9 @@ Silent Generation and the lowest in Millennials.
 1996, followed by fluctuations until 2015. In 2016, there was a drastic decline, dropping from 203,640 to 15,603.  
 ▪️Correlation Between Suicide Rate and GDP Per Capita: The analysis showed an inverse relationship between suicide rates and GDP per capita: as GDP per capita increased, suicide
 rates tended to decrease, and vice versa.  
+## Dashboard  
+
+![PWBI FINAL](https://github.com/user-attachments/assets/c8f9c70e-b435-49f4-970c-59137cad27d4)
 
 ## Proposed Solutions:  
 Based on these findings, I propose the following actions;  
@@ -31,10 +34,6 @@ Based on these findings, I propose the following actions;
 • Strengthen Emergency Support Systems: Improve crisis intervention services and provide more comprehensive emergency support.  
 • Economic and Social Policies: Develop policies that promote economic stability, foster job growth, support small-scale businesses, and facilitate skills acquisition to help reduce stressors
 contributing to suicide.  
-
-## Dashboard  
-![PWBI FINAL](https://github.com/user-attachments/assets/c8f9c70e-b435-49f4-970c-59137cad27d4)
-
 • Global Mental Health Campaigns: Launch mental health awareness campaigns to reduce stigma and encourage individuals to seek help.  
 • Improve Mental Health Services: Enhance mental health services worldwide by providing better access to mental health education and support systems.  
 • Prevention Strategies: Implement strategies to limit access to harmful materials such as pesticides and firearms.  
